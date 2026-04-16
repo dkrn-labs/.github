@@ -1,4 +1,4 @@
-#Crafting intuitive systems, developer tools, and experimental software.
+# Crafting intuitive systems, developer tools, and experimental software.
 
 Welcome to the open-source development hub created by Dehakuran. dkrn-labs serves as a sandbox for exploring new ideas, pushing the boundaries of user experience, and building tools that make software engineering a bit more enjoyable.
 
